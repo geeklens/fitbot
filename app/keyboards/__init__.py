@@ -1,0 +1,1 @@
+from .inline.lang import get_language_keyboard as getLang
